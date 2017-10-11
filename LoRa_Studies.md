@@ -6,4 +6,4 @@ A distance that it can goes, based thigs that used up the link like obstacles, a
 Andreas Spiess
 Contribution : Youtube Channel
 Link : https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ
-He talks about LoRa linkbudget and bandwith
+_ He talks about LoRa linkbudget and bandwith
