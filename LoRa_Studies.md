@@ -10,5 +10,5 @@ _ He talks about LoRa linkbudget and bandwith
 
 ## Notable Open Source Projects
 * KrishIot (IoT Eclipse participation winner)
-_ https://github.com/sivakatru/krishi-IoT
+_https://github.com/sivakatru/krishi-IoT
 
