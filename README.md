@@ -14,5 +14,9 @@
   * Slack : https://iotfarmers.slack.com
   
   
+  ### Thanks
+   * {TimelapseRPI:https://github.com/geerlingguy/pi-timelapse}
+  
+  
   
   
